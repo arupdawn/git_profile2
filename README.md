@@ -9,7 +9,7 @@ You need to have nodejs installed on your machine. If you don’t, please go to 
 
 ## How to run the App
 Simply go to the directory name rac_app on your local machine.
-### `cd rac_app2`
+### `cd git_profile2`
 
 In the project directory, you can run:
 ### `npm start`
