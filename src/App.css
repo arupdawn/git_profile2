@@ -1,0 +1,139 @@
+.App {
+  text-align: center;
+}
+
+
+.App-header {
+  background-color: #222;
+  height: 40px;
+  padding: 15px;
+  color: white;
+  margin-bottom: 15px;
+}
+
+.App-title {
+  font-size: 1.2em;
+}
+
+.App-intro {
+  font-size: large;
+}
+
+.Right{
+  text-align: right;
+}
+
+.prof_block{
+  text-align: left;
+  margin-left: 45px;
+  font-family: 'Source Sans Pro', sans-serif;
+}
+
+.button{
+  width: 275px;
+  height: 35px;
+  font-size: 17px;
+}
+
+.image{
+  max-width: 275px;
+  border-radius: 8px;
+}
+
+.name{
+  padding-top: 8px;
+  font-size: 30px;
+  margin-bottom: -4px;
+}
+
+.user_id{
+  font-size: 20px;
+}
+
+.bio{
+  font-size: 15px;
+}
+
+.fas{
+  width: 20px;
+  text-align: center;
+}
+
+.col-sm-4{
+  padding: 10px;
+}
+
+.company{
+  font-size: 16px;
+}
+
+.location{
+  font-size: 16px;
+}
+.email{
+  margin-bottom: 19px;
+}
+
+.hrbar{
+  max-width: 275px;
+}
+
+.col-sm-8{
+  padding: 10px;
+  padding-left: 10px;
+  margin-left: 20px;
+  max-width: 800px;
+}
+
+.RepoContent{
+  text-align:left;
+}
+
+.link{
+  padding-left: 20px;
+  padding-right: 20px;
+}
+
+.form-control{
+  width: 250px;
+}
+
+.ddl{
+  min-height: 35px;
+  margin-right: 5px;
+}
+
+.Navig{
+  font-family: 'Armata', sans-serif;
+}
+
+.form-inline{
+  font-family: 'Armata', sans-serif;
+}
+
+.RepoName{
+  font-size: 25px;
+  color:rgb(56, 56, 241);
+  font-family: 'Armata', sans-serif;
+}
+
+.RepoMain{
+  font-family: 'Sintony', sans-serif;
+}
+
+.Lang{
+  color:rgb(240, 139, 8);
+}
+
+.UpdatedOn{
+  font-size: 12px;
+}
+.dot {
+  height: 21px;
+  text-align: center;
+  width: 25px;
+  color:white;
+  background-color: rgb(112, 107, 107);
+  border-radius: 50%;
+  display: inline-block;
+}
